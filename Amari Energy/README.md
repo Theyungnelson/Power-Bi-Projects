@@ -120,7 +120,7 @@ This dashboard enables AMARI ENERGY to:
 | File | Description |
 |------|-------------|
 | [`AMARI_ENERGY.pbix`](./AMARI_ENERGY.pbix) | Power BI dashboard file |
-| [`Previews/AmariEnergy_Dashboard.png`](./`Previews/AmariEnergy_Dashboard.png) | Dashboard preview |
+| [`Previews/AmariEnergy_Dashboard.png`](./Previews/AmariEnergy_Dashboard.png) | Dashboard preview |
 | [`Previews/AmariEnergy_Model.png`](./Previews/AmariEnergy_Model.png) | Entity-Relationship Diagram |
 
 ---

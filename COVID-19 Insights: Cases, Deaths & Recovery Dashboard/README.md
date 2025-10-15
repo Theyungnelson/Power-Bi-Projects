@@ -127,7 +127,7 @@ This analysis addressed critical questions and produced actionable insights:
 |------|-------------|
 | [`Covid-19_Insights.pbix`](./Covid-19_Insights.pbix) | Main Power BI dashboard file |
 | [`Covid-19_Data.sql`](./Covid-19_Data.sql) | SQL script for extraction and cleaning |
-| [`Covid-19_Data.xlsx`](./Covid-19_Data.xlsx) | Cleaned dataset |
+| [`Covid_19.xlsx`](./Covid_19.xlsx) | Cleaned dataset |
 | [`Screenshots/Covid-19_Insight_Dashboard.png`](./Screenshots/Covid-19_Insight_Dashboard.png) | Dashboard screenshot |
 | [`Screenshots/Covid-19_Insight_Model.png`](./Screenshots/Covid-19_Insight_Model.png) | Data model relationship diagram |
 

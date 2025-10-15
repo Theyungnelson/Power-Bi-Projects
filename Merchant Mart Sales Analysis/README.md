@@ -75,6 +75,7 @@ Data was sourced locally from Merchant Mart’s internal Excel and CSV files, in
 <details>
 <summary>📊 Click to expand dashboard overview</summary>
 <img src="./Images/MerchantMart_Dashboard.png" alt="Merchant Mart Analysis Dashboard" width="700"/>
+  
 **Dashboard Title:** Merchant Mart Sales Analysis | 2013 - 2014
 
 **Top KPIs:**
@@ -117,8 +118,8 @@ This dashboard empowers Merchant Mart to:
 | File | Description |
 |------|-------------|
 | [`Merchant_Mart.pbix`](./Merchant_Mart.pbix) | Power BI dashboard file |
-| [`MerchantMart_Dashboard.png`](./MerchantMart_Dashboard.png) | Dashboard preview |
-| [`MerchantMart_Model.png`](./MerchantMart_Model.png) | Data model screenshot |
+| [`MerchantMart_Dashboard.png`](./Images/MerchantMart_Dashboard.png) | Dashboard preview |
+| [`MerchantMart_Model.png`](./Images/MerchantMart_Model.png) | Data model screenshot |
 
 ---
 

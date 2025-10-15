@@ -71,7 +71,7 @@ Data was sourced locally from internal Excel files and CSV exports, including:
 - `Customer.customer_id` → `Sales.customer_id`  
 - `Product.product_id` → `Sales.product_id`  
 
-📷 [View Screenshot](./Assets/IP-Signals_Model.png)
+📷 ![View Screenshot](./Assets/IP-Signals_Model.png)
 </details>
 
 ---
@@ -92,7 +92,7 @@ Data was sourced locally from internal Excel files and CSV exports, including:
 - Region by Revenue: Pie chart (North, West, East, South)  
 - Detailed Sales Table: Region, Category, Membership, Rating, Profit, Customers  
 
-📷 [View Screenshot](./Assets/IP-Signals_Dashboard.png)
+📷 ![View Screenshot](./Assets/IP-Signals_Dashboard.png)
 </details>
 
 ---
